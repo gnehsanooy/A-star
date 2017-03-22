@@ -1,0 +1,36 @@
+﻿*{
+	margin:0;
+	padding:0;
+}
+#ul1{
+	height: auto;
+	overflow: hidden;
+	border: 1px solid #000;
+	border-bottom: none;
+	border-right: none;
+	margin:20px auto;
+}
+#ul1 li {
+	border: 1px solid #000;
+	border-top: none;
+	border-left: none;
+	float: left;
+}
+li{
+	list-style: none;
+}
+#input1{
+	width: 100px;
+	position: absolute;
+	left: 50%;
+	margin-left: -50px;
+}
+.sty1{
+	background: red;
+}
+.sty2{
+	background: green;
+}
+.sty3{
+	background: blue;
+}
